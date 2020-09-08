@@ -1,0 +1,495 @@
+.topmargin-sm{ margin-top: 10px}
+.topmargin-md{ margin-top: 40px;}
+.topmargin-lg{ margin-top: 80px;}
+
+
+
+/*----------------index-----------------*/
+
+.hero-index{
+	background-image: url(https://i.pinimg.com/originals/0f/3c/73/0f3c7340304196a761cc37838942061f.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.title-index{
+	margin: 0;
+}
+
+.form-registro, .form-login{
+	margin:30px;
+	padding: 0;
+}
+.logo{
+	width: 50px;
+	margin-bottom: 10px 0px;
+	height: 50px;
+	border-radius: 50%;
+	margin-right:10px;
+}
+ body{
+ 	background-color: #E3E6E9;
+ }
+a:hover{
+	text-decoration: none;	
+}
+h1{
+	font-size: 60px;
+	font-weight: 600;
+	line-height: 80px;
+	color: #fff;
+	font-family: 'Oswald', sans-serif;
+}
+p{
+font-family: 'Red Rose', cursive;
+}
+h2{
+	font-size: 40px; 
+	margin-bottom: 30px; 
+	color:#fff;
+	font-family: 'Oswald', sans-serif;
+}
+.hero{
+	background-image: url(https://fondos.io/wp-content/uploads/2019/01/fondo-de-Mexico-10.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.content-center2{
+	max-width: 800px;
+	margin:0 auto 60px auto;
+	text-align: center;
+}
+.content-center2 p,h2{
+	color: #000;
+}
+.content-center{
+	max-width: 800px;
+	margin:0 auto 60px auto;
+	text-align: center;
+}
+.btn-blanco{
+	background-color: #FFB202;
+	color:#fff;
+	font-size: 15px;
+	padding: 15px 26px;
+	width: 100%;
+	border-radius: 5px;
+	display: inline-block;
+}
+.btn-blanco:hover{
+	background-color: #FFE01B;
+	color:#fff;
+}
+.im-principal{
+	min-width: 200px;
+	max-width:800px;
+}
+.img-content{
+	position: relative;
+	overflow: hidden;
+	border-radius: 5px;
+	margin: auto 10px 0;
+}			
+.formulario{
+	color: 	#fff;
+	background-color: #2E2E2E;
+}			
+.formulario input {
+	width: 100%;
+}
+.modal-title{
+	color:#fff;
+}
+.detalles-img{
+	position: absolute;
+	bottom: 25px;
+	z-index: 50;
+	left: 20px;
+}
+.modal-content{background-color: #2E2E2E;}
+.img-content img {
+	-moz-transition: all 0.8s;
+	-webkit-transition: all 0.8s;
+	transition: all 0.8s; 
+	max-height: 500px;;
+}
+.img-content:hover img{
+	-moz-transform:scale(1.2);
+	-webkit-transform:scale(1.2);
+	transform: scale(1.2);
+}
+.content-row{
+	margin: 0px 0px;
+}
+.im-principal{
+	margin-bottom: 30px;
+	padding: 0px 0px;
+}
+.detalles-img p, .detalles-img h2{
+	color:#fff;	
+}
+.detalles-img:hover{
+	text-decoration: none;
+}
+.main-footer{
+	width: 100%;
+	padding-top: 50px;
+	margin: 0;
+	color:#fff;
+	min-height: 300px;
+	background-color:#4F4931;
+}
+.div-act{
+	color:#F9CA0B;
+	border: 2px solid;
+	width: 100%;
+
+}
+.div-footer{
+	color:#F9CA0B;
+	border: 2px solid;
+	width: 70%;
+
+}
+.img-redes img{
+	width: 36px;
+}
+.info-inicio{
+	width: 300px;
+	margin: auto;
+	margin-top: 30px;
+}
+.info-inicio img{
+	max-width: 120px;
+	text-align: center;
+}
+hr{
+	color:#9B8003;
+	border: 1px solid;
+}
+/*---------------Viajes---------------*/
+.hero-viajes{
+	background-image: url(https://www.mexicodesconocido.com.mx/assets/images/destinos/tequila/MD436_Viaje-Tequila-BI_MG_1666.jpg);
+	background-size: cover;
+	padding-top: 90px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.hero-tsomanotki{
+	background-image: url(https://www.toditochiapas.com.mx/data/uploads/2017/02/caba%C3%B1as-los-jardines-lagunas-de-montebello-chiapas.png);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.hero-canto-selva{
+	background-image: url(https://rutopia.com/wp-content/uploads/2020/02/Rutopia_Chiapas_Canto_de_la_selva_Hospedaje.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.hero-cafe{
+	background-image: url(https://rutopia.com/wp-content/uploads/2019/06/9.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.hero-almacen{
+	background-image: url(https://rutopia.com/wp-content/uploads/2020/02/Rutopia-Oaxaca-Almacen-Lugar-Cascadas-Apoala-ALMACEN_Cascadas-en-Apoala_Tian.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.hero-sierra{
+	background-image: url(https://rutopia.com/wp-content/uploads/2020/07/df06e099-6aa9-4798-93c9-514d4d1eaf89.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.hero-acaxochitlan{
+	background-image: url(https://rutopia.com/wp-content/uploads/2020/02/Rutopia-Hidalgo-Acaxocitlan-Actividades-Caminata-por-cascada-3.-Acaxochi_Caminathacia-las-cascadas.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.hero-veinte{
+	background-image: url(https://rutopia.com/wp-content/uploads/2020/02/Rutopia-Campeche-El_Veinte-Lugar-Zona-Arq.-Rio-Bec-1.-El-Veinte_Viajeros-en-zona-arqueol%C3%B3gica-R%C3%ADo-Bec_-@ponchoxv.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.hero-arena{
+	background-image: url(https://tribunacampeche.com/wp-content/uploads/2018/03/80e99455-955e-4802-a982-2da984d28e03.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.hero-tosepan{
+	background-image: url(https://rutopia.com/wp-content/uploads/2020/03/DSC_0273.jpg);
+	background-size: cover;
+	padding-top: 75px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.img-viajes img{
+	width: 90%;
+	max-height: 500px;
+	-webkit-box-shadow: 12px 8px 13px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 12px 8px 13px 1px rgba(0,0,0,0.75);
+	box-shadow: 12px 8px 13px 1px rgba(0,0,0,0.75);
+}
+.img-hospedaje img{
+	max-width: 45%;
+	margin: 5px;
+}
+.actividades{
+	-webkit-box-shadow: -1px 9px 10px -2px rgba(189,189,189,1);
+	-moz-box-shadow: -1px 9px 10px -2px rgba(189,189,189,1);
+	box-shadow: -1px 9px 10px -2px rgba(189,189,189,1);
+	margin-top: 20px;
+}
+.actividades a{
+	text-decoration: none;
+}
+.actividades{
+	background-color: #DEDAC4;						
+}
+.title-actividad{
+	color:#3D8430;
+	padding: 10px;
+}
+.titele-actividad:hover{
+	text-decoration: none;
+}
+.text-actividad{
+	padding: 20px;
+	display: none;
+}
+.formulario-viaje{
+	width: 100%;
+	padding: 30px;
+	background-color: #fff;
+	border-radius: 4px; 
+}
+.form-viaje input{
+	width: 100%;
+	border-radius: 4px;
+	border: 2px solid #FFB202;
+}
+.ubicacion{
+	margin-top: 50px;
+}
+.iframe-ubicacion{
+	width: 100%;
+	height: 400px;
+}
+
+/*---------------Nosotros------------*/
+.hero-nosotros{
+	background-image: url(https://img4.goodfon.com/wallpaper/nbig/5/34/dvorets-iziashchnykh-iskusstv-mekhiko-meksika-ogni-ploshchad.jpg);
+	background-size: cover;
+	padding-top: 90px;
+	min-height: 500px;
+	font-size: 18px;
+	color: #fff;
+	line-height: 25px;
+	margin-top: 0px;
+	color:#fff;
+}
+.info-nosotros{
+	margin-top:50px; 
+	margin-bottom: 50px;
+}
+.info-nosotros p{
+	padding: 15px;
+}
+.info-nosotros img{
+	max-width: 120px;
+	padding: 10px;
+	display: block; 
+	margin: auto;
+}
+.contacto{
+	width: 80%;
+	background-color: #fff;
+	padding: 20px;
+	margin-bottom: 70px;
+}
+.form-contacto input{
+	width: 100%;
+	border-radius: 4px;
+	border: 2px solid #FFB202;
+	height: 50px;
+}
+.form-contacto textarea{
+	width: 100%;
+	height: 80px;
+	border-radius: 4px;
+	border: 2px solid #FFB202;
+}
+
+/*------------catalogos------------*/
+.content-form {
+	margin-top: 100px;
+	padding: 30px;
+	height: 500px;
+}
+.login-form{
+	background-color: #2E2E2E;
+	padding: 30px;
+	border-radius: 5px;
+}
+.form-section2 input{
+	width: 300px;
+	margin: 20px;
+}
+
+.form-nuevo{
+	background-color: #2E2E2E;
+	padding: 50px;
+}
+
+/*------------mis viajes--------------*/
+
+.hero-mis-viajes, .miperfil{
+	margin-top: 100px;
+}
+.table-viajes th{
+	color: #fff;	
+}
+.table-viajes td{
+	background-color: #fff;
+}
+.table-perfil th{
+	background-color: #4F4931;
+	color:#fff;
+}
+.table-perfil td{
+	background-color: #fff;
+}
+.icon-borrar{
+width: 20px;
+cursor: pointer;
+}
+            
+.icon-edit{
+width: 30px;
+cursor: pointer;
+}
+.body-mis-viajes{
+	background-image: url(https://img.wallpapersafari.com/desktop/1600/900/92/67/xZz9RF.jpg);
+	background-size: cover;
+}
+
+/*---------administracion-----------*/
+
+.clientes-table{
+	margin-top: 100px;
+}
+.table-clientes th {
+	background-color: #955D2B;
+	color:#fff;
+}
+.table-clientes td{
+	background-color: #fff;
+}
+.formulario-edit{
+	color: 	#fff;
+	background-color: #2E2E2E;
+	padding: 30px;
+	margin-top: 50px;
+}			
+.formulario-edit input{
+	width: 100%;
+}
+.form-registro{
+	width: 300px;
+	margin: auto;
+	display: inline-block;
+}
+.form-login{
+	width: 300px;
+	display: inline-block;
+}
+.btn-sesion{
+	padding: 20px;
+	text-align: center;
+	margin: 0;
+}
+/*--------------login us---------------*/
+.login-us{
+	width: 300px;
+	margin-top:100px; 
+}
+@media (max-width: 575.98px) { 
+h1{font-size: 40px; line-height: normal;}	
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
